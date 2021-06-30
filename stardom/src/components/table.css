@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container table{
+    background-color: white;
+    width:700px;
+    margin: 20px;
+    font-size: 20px;
+}
+.container div{
+    margin-top: 20px;
+}
+.container span{
+    margin: 5px;
+}
+button{
+    background-color: blue;
+    color: white;
+}
